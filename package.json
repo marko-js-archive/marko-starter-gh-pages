@@ -1,0 +1,37 @@
+{
+  "name": "@marko/starter-gh-pages",
+  "version": "0.0.1",
+  "description": "Utility for publishing marko-starter websites onto GitHub pages.",
+  "main": "index.js",
+  "scripts": {
+    "prettier": "prettier *.js --write"
+  },
+  "bin": {
+    "marko-starter-gh-pages": "bin/marko-starter-gh-pages"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marko-js/marko-starter-gh-pages.git"
+  },
+  "keywords": [
+    "marko",
+    "starter",
+    "gh-pages",
+    "github",
+    "pages"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/marko-js/marko-starter-gh-pages/issues"
+  },
+  "homepage": "https://github.com/marko-js/marko-starter-gh-pages#readme",
+  "dependencies": {
+    "argly": "^1.2.0",
+    "gh-pages": "^1.1.0",
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2"
+  }
+}

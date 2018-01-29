@@ -1,5 +1,7 @@
 # marko-starter-gh-pages
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/marko-js/marko-starter-gh-pages.svg)](https://greenkeeper.io/)
+
 This module is used for easily publishing [marko-starter](https://github.com/marko-js/marko-starter)
 websites to [GitHub pages](https://pages.github.com/).
 

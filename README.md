@@ -1,3 +1,5 @@
+# marko-starter is deprecated, check out [@marko/serve](https://github.com/marko-js/cli/blob/master/packages/serve/README.md) for an updated zero config Marko setup!
+
 # marko-starter-gh-pages
 
 This module is used for easily publishing [marko-starter](https://github.com/marko-js/marko-starter)
